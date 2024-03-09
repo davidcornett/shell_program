@@ -1,5 +1,4 @@
-Smallsh by David Cornett (CS344 Assignment #3)
-        This program runs an interactive shell for the user.  
+This program runs an interactive shell for the user.  
 
 1) Compile program using the following to create an executable 'smallsh':
         gcc --std=gnu99 -o smallsh main.c
